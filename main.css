@@ -1,0 +1,46 @@
+#principal{
+    display: flex;
+    height: 100vh;
+}
+
+#logo{
+    display: flex;
+    align-items: center;
+}
+
+#welcome{
+    display: flex;
+    align-items: center;
+}
+
+#esquerda{
+    height: 100%;
+    width: 50vw;
+}
+
+#direita{
+    height: 100%;
+    width: 50vw;
+}
+
+
+#horizontal{
+    display: flex;
+    align-items: center;
+   
+}
+
+hr{
+    height: 1px;
+    width: 30%;
+}
+
+#lembrar{
+    display: flex;
+    align-items: center;
+}
+
+#Item{
+    display: flex;
+    align-items: center;
+}
